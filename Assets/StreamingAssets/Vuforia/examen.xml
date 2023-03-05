@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="turtle" size="100.000000 57.962502" />
+    <ImageTarget name="Turkey" size="100.000000 114.057602" />
+    <ImageTarget name="swan" size="100.000000 62.799999" />
+    <ImageTarget name="snake" size="100.000000 120.808868" />
+    <ImageTarget name="shark" size="100.000000 103.626945" />
+    <ImageTarget name="Penguin" size="100.000000 103.059578" />
+    <ImageTarget name="panda" size="100.000000 114.935432" />
+    <ImageTarget name="Rhino" size="100.000000 101.112236" />
+    <ImageTarget name="rabbit" size="100.000000 151.686752" />
+    <ImageTarget name="eagle" size="100.000000 100.000000" />
+    <ImageTarget name="ducks" size="100.000000 100.066063" />
+    <ImageTarget name="donkey" size="100.000000 126.086960" />
+    <ImageTarget name="bison" size="100.000000 100.000000" />
+    <ImageTarget name="bear" size="100.000000 111.358574" />
+    <ImageTarget name="Cheetah" size="100.000000 98.484848" />
+    <ImageTarget name="chevre" size="100.000000 100.000000" />
+    <ImageTarget name="mouton" size="100.000000 128.571426" />
+    <ImageTarget name="zebre" size="100.000000 141.442719" />
+    <ImageTarget name="vache" size="100.000000 100.000000" />
+    <ImageTarget name="tigre" size="100.000000 100.000000" />
+    <ImageTarget name="renard" size="100.000000 177.975525" />
+    <ImageTarget name="poule" size="100.000000 107.642624" />
+    <ImageTarget name="lion" size="100.000000 100.000000" />
+    <ImageTarget name="griaffe" size="100.000000 154.121857" />
+    <ImageTarget name="gazelle" size="100.000000 143.870407" />
+    <ImageTarget name="elephant" size="100.000000 121.400230" />
+    <ImageTarget name="cochon" size="100.000000 88.250000" />
+    <ImageTarget name="chien" size="100.000000 100.000000" />
+    <ImageTarget name="chevale" size="100.000000 132.669983" />
+    <ImageTarget name="chat" size="100.000000 124.665390" />
+    <ImageTarget name="chameau" size="100.000000 134.435379" />
+  </Tracking>
+</QCARConfig>
